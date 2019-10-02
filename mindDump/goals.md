@@ -1,0 +1,1 @@
+- Make an OSU! inspired game using Angular, RxJS and frigg ton of animations.
